@@ -8,7 +8,7 @@ public class Day2_Git {
 içindeki dosyaları ilişkilendirmek için kullanılır
 2-) git add . --> Working space'den (yani yerel) dosyalarımı staging area'ya
 (yani commitlemek için beklenen yer) gönderir
-3-) git commit -m "mesaj" --> Staging area'dan commit stora
+3-) git commit -m "mesaj" -git-> Staging area'dan commit stora
 dosyalarımı göndermek için kullanılır (commit yani versiyon
 yani sürüm oluşturmuş olurum)
 4-) git push --> Uzak repo'ya(yani remote - Github)
